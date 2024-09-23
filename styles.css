@@ -115,3 +115,8 @@ th {
 .mt-6 {
     margin-top: 24px;
 }
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
